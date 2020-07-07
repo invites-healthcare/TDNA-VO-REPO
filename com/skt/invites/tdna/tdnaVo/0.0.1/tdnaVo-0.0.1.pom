@@ -50,6 +50,11 @@
 			<name>spring plugin Repository</name>
 			<url>https://repo.spring.io/plugins-release</url>
 		</repository>
+		<repository>
+			<id>hsoft</id>
+			<name>webhelper</name>
+			<url>https://raw.github.com/shaneguys/repo/master/snapshots</url>
+		</repository>
 	</repositories>
 
 	<distributionManagement>

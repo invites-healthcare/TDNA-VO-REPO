@@ -37,11 +37,6 @@
 			  <artifactId>spring-web</artifactId>
 			  <version>5.1.10.RELEASE</version>
 		</dependency>
-		<dependency>
-			<groupId>com.hsoft.web.helper</groupId>
-			<artifactId>webHelper</artifactId>
-			<version>0.0.2-SNAPSHOT</version>
-		</dependency>
 	</dependencies>
 
 	<repositories>
@@ -49,11 +44,6 @@
 			<id>spring plugin</id>
 			<name>spring plugin Repository</name>
 			<url>https://repo.spring.io/plugins-release</url>
-		</repository>
-		<repository>
-			<id>hsoft</id>
-			<name>webhelper</name>
-			<url>https://raw.github.com/shaneguys/repo/master/snapshots</url>
 		</repository>
 	</repositories>
 
